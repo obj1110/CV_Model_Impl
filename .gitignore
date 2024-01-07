@@ -1,0 +1,7 @@
+*.pth
+data/
+pthFile/
+*.png
+*.jpg
+*.jpeg
+*.tgz
